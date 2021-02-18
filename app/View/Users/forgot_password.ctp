@@ -1,0 +1,1 @@
+<?php echo $this->element( 'form/users/forgot_password' ); ?>

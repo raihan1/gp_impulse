@@ -1,0 +1,1 @@
+<?phpdefine( 'STATUS_OK', 200 );define( 'STATUS_UNAUTHORIZED', 401 );define( 'STATUS_FORBIDDEN', 403 );define( 'STATUS_NOT_FOUND', 404 );define( 'STATUS_INPUT_UNACCEPTABLE', 406 );define( 'STATUS_SERVER_ERROR', 500 );
